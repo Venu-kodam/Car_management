@@ -5,7 +5,7 @@ import { Route, Routes } from 'react-router-dom'
 import Login from './components/Login'
 import { ToastContainer } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'
-import CarDetails from './components/carDetails'
+import CarDetails from './components/CarDetails'
 import AddCar from './pages/AddCar'
 import { carContext } from './context/carContext'
 const App = () => {
