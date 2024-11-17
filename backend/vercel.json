@@ -15,7 +15,7 @@
         {
             "src": "/(.*)",
             "dest": "/",
-            "methods:[
+            "methods":[
                 "GET",
                 "POST",
                 "PUT",
