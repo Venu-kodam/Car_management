@@ -5,7 +5,7 @@ import axios from "axios";
 export const carContext = createContext(null)
 
 const CarContextProvider = ({children})=>{
-    const backendUrl = "http://localhost:4000"
+    const backendUrl = "https://car-management-backend-p3ks.onrender.com"
     const [token, setToken] = useState('')
     const[carsData,setCarsData] = useState([])
     const navigate = useNavigate()
