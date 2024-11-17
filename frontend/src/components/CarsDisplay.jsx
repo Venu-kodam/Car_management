@@ -40,8 +40,6 @@ const CarsDisplay = () => {
                 </div>
                 :<div className='h-[500px] flex items-center justify-center font-semibold text-2xl'>Cars not Available</div>
             }
-            
-
         </>
 
     )
