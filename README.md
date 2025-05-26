@@ -20,5 +20,4 @@ products, and provide search functionality across products.
 - Users can update a car’s title, description, tags, or image.
 - Users can delete a car.
   
-### Backend is hosted on https://car-management-backend-p3ks.onrender.com/ ###
-### Frontend is hosted on https://car-management-frontendfront.onrender.com/ ###
+### Live Demo: https://car-management-frontendfront.onrender.com/ ###
